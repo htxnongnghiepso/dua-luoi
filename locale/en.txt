@@ -1,0 +1,25 @@
+#: locale=en
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_EF0AE43A_C3E0_050A_41DB_5ED16BEE7AA3.toolTip = Vào phòng điều khiển
+
+## Media
+
+### Title
+panorama_EDB6D743_C3A0_037A_41E3_9B4984F78F6B.label = công chính
+panorama_EDBD58BD_C3A0_0D0E_41E1_AFB875F0DE13.label = phòng điều khiển
+panorama_EFD8634A_C3A0_0375_41C3_02C1881365CF.label = trên cao
+panorama_EDB29AC3_C3A0_0D7B_41E0_48820522DD78.label = vườn 1
+panorama_EDB350DA_C3A0_3D15_41E3_A99DEB1B8C7A.label = vườn 1
+panorama_EDB276EB_C3A0_050A_41CD_21775B5D6B81.label = vườn 2
+panorama_EDB297FE_C3A0_030D_41E4_205CAEA70565.label = vườn 2
+panorama_EDBD179A_C3A0_0315_41CB_667ED00CE10E.label = vườn 2
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 144
